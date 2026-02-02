@@ -1,0 +1,18 @@
+
+{
+  "name": "Aluga Aí Vilhena",
+  "short_name": "Aluga Aí",
+  "description": "Aluguel direto com o proprietário em Vilhena - RO",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#004a8e",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/609/609803.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

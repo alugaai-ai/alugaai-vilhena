@@ -1,0 +1,7 @@
+{
+  "name": "Aluga Aí - Vilhena",
+  "description": "O jeito mais fácil de alugar em Vilhena, RO. Sem burocracia, sem imobiliária, direto com quem manda.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
